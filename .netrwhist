@@ -1,4 +1,8 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
-let g:netrw_dirhist_1='/Users/okitsu/Documents/workspace/mimiuchi_back'
-let g:netrw_dirhist_2='/Users/okitsu/.vim'
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/okitsu/Documents/workspace/mimiuchi'
+let g:netrw_dirhist_2='/Users/okitsu/Library/Application Support/Google/Chrome/Default/Extensions/cnhledchmndihnlbbdhaebppnhfedpfk/1.4.6.0_0'
+let g:netrw_dirhist_3='/Users/okitsu/Documents/workspace/docshare'
+let g:netrw_dirhist_4='/Users/okitsu/Documents/workspace/moonlinx_beta'
+let g:netrw_dirhist_5='/Users/okitsu/Documents/workspace/mimiuchi'
+let g:netrw_dirhist_6='/Users/okitsu/Documents/workspace/moonlinx_beta'
